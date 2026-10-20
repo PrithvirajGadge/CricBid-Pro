@@ -1,0 +1,5 @@
+name,role,nationality,base_price
+Example Batter,Batter,India,0.50
+Example Bowler,Bowler,Australia,0.75
+Example Keeper,Wicketkeeper,England,0.50
+Example Allrounder,Allrounder,New Zealand,1.00
